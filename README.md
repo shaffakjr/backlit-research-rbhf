@@ -8,16 +8,11 @@ via Region-based Histogram and Fusion (RBHF)
 
 ## About
 The proposed RBHF technique enhances a single backlit or low-light image
-Using region-based histogram specification & DWT image fusion. The algorithm corrects exposure disparities in captured photos and results in no colour distortion or artefacts.
+Using region-based histogram specification & DWT image fusion. The algorithm corrects exposure disparities in captured photos and results in no colour distortion or artefacts. Multiple iterations can improve enhancement quality, significantly. Unsharp masking can be applied to the final output to sharpen image.
 
 ## Enhancement results
-photo
+<img src="samp1.jpg" width="800">
+Examples here shown at low resolution.
 
-link
-
-Enhancement results with unsharp masking
-link
-
-Compare methods
-link
-
+Simulation results - Google Drive:
+[link](https://drive.google.com/drive/folders/1j2nIyDCAfHpSuQhMeq0uhxcdnH3hOqJ9?usp=sharing)
